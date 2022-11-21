@@ -9,15 +9,13 @@ import { Hero } from './hero';
 export class HeroService {
   private heroesUrl = 'api/heroes';  // URL to web api
 
-  constructor(private http: HttpClient) {}
+  constructor() {}
 
-  // This method makes a request to get all heroes
   getHeroes(): Observable<Hero[]> {
-    return this.http.get<Hero[]>(this.heroesUrl);
+    // Your code here, please
   }
 
-  // This method makes a request to get some exact hero
   getHero(id: number): Observable<Hero> {
-    return this.http.get<Hero>(`${this.heroesUrl}/${id}`);
+    // Your code here, please 2
   }
 }

@@ -16,11 +16,11 @@ export class HeroDetailComponent implements OnInit {
     this.getHero();
   }
 
-  //You should provide here the logic to get hero and set it to hero property
   getHero(): void {
+    // Your code here, please
   }
 
-  //You should provide here the logic to return on dashboard
   goBack(): void {
+    // Your code here, please 2
   }
 }

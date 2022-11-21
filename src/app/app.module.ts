@@ -8,6 +8,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { HeroDetailComponent } from './hero-detail/hero-detail.component';
+import { HeroDirective } from "./hero.directive";
 import { InMemoryDataService } from "./in-memory-data.service";
 
 @NgModule({
@@ -24,6 +25,7 @@ import { InMemoryDataService } from "./in-memory-data.service";
     AppComponent,
     DashboardComponent,
     HeroDetailComponent,
+    HeroDirective
   ],
   bootstrap: [ AppComponent ]
 })

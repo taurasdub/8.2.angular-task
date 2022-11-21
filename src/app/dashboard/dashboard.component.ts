@@ -15,7 +15,7 @@ export class DashboardComponent implements OnInit {
     this.getHeroes();
   }
 
-  //You should provide here the logic to get heroes and set them to heroes property
   getHeroes(): void {
+    // Your code here, please
   }
 }
