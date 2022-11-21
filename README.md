@@ -79,7 +79,7 @@ _BONUS POINT:_
 If you could find weak place in program it will give you +2 points (pts).
 What I mean about week place: Some user action could lead to error in console and will redirect you to empty page
 
-#####You should reach at least 8 points to successfully end this section. If some parts will be not so good but make expecting logic you will get part of full point for the task. But of course `practice makes perfect` so you could make changes after my comments and receive full grade
+##### You should reach at least 8 points to successfully end this section. If some parts will be not so good but make expecting logic you will get part of full point for the task. But of course `practice makes perfect` so you could make changes after my comments and receive full grade
 
 Good luck 🍀
 
