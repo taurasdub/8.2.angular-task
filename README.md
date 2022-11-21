@@ -13,7 +13,7 @@ While clicking on each hero you will be navigated to details page_
   - Shouldn't be changed. Please use that you already have
 - TS
   - ```getHeroes()``` method should ask for the heroes and set them to the ```heroes``` property
-  - 
+
 -----
 
 ### Hero Details (3pts):
@@ -31,6 +31,7 @@ While clicking on each hero you will be navigated to details page_
   - Shouldn't be changed. Please use that you already have
 - TS
   - ```getHero()``` method should ask for the hero and set it to the ```hero``` property. Also, please remember that this component will be used to display every hero detailed view. So you could not create 9 independent component. The hint about it you could find in ```Router``` rules
+  - ```goBack()``` method should redirect you to dashboard
 
 -----
 
