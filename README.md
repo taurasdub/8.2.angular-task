@@ -73,12 +73,13 @@ Routes:
 3) If you have an error while first serving make sure that you already installed Angular and NodeJS
 4) Import all necessary inputs. That's ok.
 5) You could find all place you should fill with ctrl(cmd on mac)+shift+f and key phrase 'Your code here, please'
-6) You should reach at least 8 points to successfully end this section. If some parts will be not so good but make expecting logic you will get part of full point for the task. But of course `practice makes perfect` so you could make changes after my comments and receive full grade
 
 ---
 _BONUS POINT:_
 If you could find weak place in program it will give you +2 points (pts).
 What I mean about week place: Some user action could lead to error in console and will redirect you to empty page
+
+#####You should reach at least 8 points to successfully end this section. If some parts will be not so good but make expecting logic you will get part of full point for the task. But of course `practice makes perfect` so you could make changes after my comments and receive full grade
 
 Good luck 🍀
 
